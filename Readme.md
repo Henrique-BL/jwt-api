@@ -27,7 +27,7 @@ This is a basic Node.js project that implements a RESTful API for generating and
     npm install express jsonwebtoken swagger-jsdoc swagger-ui-express nodemon
     ```
 
-## Executando o Projeto ▶️
+## Hands On! ▶️
 
 ### Dev Mode 💻
 
